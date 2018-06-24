@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/goods/backpackBox.png</file>
+        <file>pic/backpackBox.png</file>
+        <file>pic/helmet.png</file>
+        <file>pic/equipped.png</file>
+        <file>pic/person_bag.png</file>
+        <file>map/map0.jpg</file>
+        <file>map/map1.png</file>
+        <file>map/map2.png</file>
+        <file>map/map3.png</file>
+        <file>map/map4.png</file>
+        <file>map/map5.png</file>
+        <file>map/map6.png</file>
+        <file>map/map7.png</file>
+        <file>map/map8.png</file>
+        <file>map/map9.png</file>
+        <file>map/map10.png</file>
+        <file>map/map11.png</file>
+        <file>map/map12.png</file>
+        <file>map/map13.png</file>
+        <file>map/map14.png</file>
+        <file>map/map15.png</file>
+        <file>map/map16.png</file>
+        <file>map/map17.png</file>
+        <file>map/map18.png</file>
+        <file>monster/boss.png</file>
+        <file>pic/battle4.jpg</file>
+        <file>map/battle4.png</file>
+        <file>map/game_over.png</file>
+        <file>map/victory.png</file>
+    </qresource>
+</RCC>

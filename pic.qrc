@@ -1,0 +1,38 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/mosnter32.png</file>
+        <file>pic/npc1.png</file>
+        <file>pic/npc2.png</file>
+        <file>pic/npc3.png</file>
+        <file>pic/npc4.png</file>
+        <file>pic/npc5.png</file>
+        <file>pic/npc6.png</file>
+        <file>pic/player.png</file>
+        <file>conversation/unfinish.png</file>
+        <file>monster/mon1.png</file>
+        <file>monster/mon2.png</file>
+        <file>monster/mon3.png</file>
+        <file>monster/mon4.png</file>
+        <file>monster/mon5.png</file>
+        <file>monster/mon6.png</file>
+        <file>monster/mon7.png</file>
+        <file>monster/mon8.png</file>
+        <file>monster/mon9.png</file>
+        <file>monster/mon10.png</file>
+        <file>player/test.mp3</file>
+        <file>conversation/finished.png</file>
+        <file>conversation/npc1_1.png</file>
+        <file>conversation/npc1_2.png</file>
+        <file>conversation/npc1_3.png</file>
+        <file>player/player1_1.png</file>
+        <file>player/player1_2.png</file>
+        <file>player/player1_3.png</file>
+        <file>player/player1_4.png</file>
+        <file>pic/store_word.png</file>
+        <file>conversation/npc2_1.png</file>
+        <file>conversation/npc2_2.png</file>
+        <file>conversation/npc2_3.png</file>
+        <file>conversation/npc3_1.png</file>
+        <file>conversation/npc3_2.png</file>
+    </qresource>
+</RCC>

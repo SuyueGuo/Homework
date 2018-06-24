@@ -1,0 +1,40 @@
+<RCC>
+    <qresource prefix="/">
+        <file>pic/monster1_all.png</file>
+        <file>pic/monster2_all.png</file>
+        <file>pic/monster3_all.png</file>
+        <file>pic/monster4_all.png</file>
+        <file>pic/monster5_all.png</file>
+        <file>pic/monster6_all.png</file>
+        <file>pic/monster7_all.png</file>
+        <file>pic/monster8_all.png</file>
+        <file>pic/monster9_all.png</file>
+        <file>pic/monster10_all.png</file>
+        <file>pic/monster11.png</file>
+        <file>pic/monster12.png</file>
+        <file>pic/monster13.png</file>
+        <file>pic/monster14.png</file>
+        <file>pic/monster21.png</file>
+        <file>pic/monster22.png</file>
+        <file>pic/monster23.png</file>
+        <file>pic/monster24.png</file>
+        <file>pic/monster31.png</file>
+        <file>pic/monster33.png</file>
+        <file>pic/monster34.png</file>
+        <file>pic/mosnter32.png</file>
+        <file>pic/npc1.png</file>
+        <file>pic/npc2.png</file>
+        <file>pic/npc3.png</file>
+        <file>pic/npc4.png</file>
+        <file>pic/npc5.png</file>
+        <file>pic/npc6.png</file>
+        <file>pic/player.png</file>
+        <file>map/map1.png</file>
+        <file>map/map2.png</file>
+        <file>map/map3.png</file>
+        <file>conversation/finished.png</file>
+        <file>conversation/unfinish.png</file>
+        <file>conversation/npc1_1.png</file>
+        <file>conversation/npc1_2.png</file>
+    </qresource>
+</RCC>
